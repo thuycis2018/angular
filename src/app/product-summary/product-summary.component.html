@@ -1,0 +1,5 @@
+<section class="listing">
+    <h2 class="listing-heading">{{ productData.name }}</h2>
+    <p class="listing-price">${{ productData.price }}</p>
+    <a [routerLink]="['/details', productData.id]">Learn More</a>
+  </section>

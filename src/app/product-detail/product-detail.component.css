@@ -1,0 +1,24 @@
+
+  .listing-heading {
+    font-size: 48pt;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  .listing-price {
+    font-size: 24pt;
+    margin-bottom: 15px;
+  }
+  .listing-features > .section-heading {
+    color: var(--secondary-color);
+    font-size: 24pt;
+    margin-bottom: 15px;
+  }
+  .listing-features {
+    margin-bottom: 20px;
+  }
+  .listing-features li {
+    font-size: 14pt;
+  }
+  li {
+    list-style-type: none;
+  }
